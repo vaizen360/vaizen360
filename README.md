@@ -1,4 +1,4 @@
-Hi, I’m @vaizen360
+Hi, I’m Valeria
 - I’m interested in genome engineering, cell therapies, and protein design and am excited about using powerful bioinformatics and computational tools to advance this research.
   I graduated with my Masters of Science in Molecular, Cellular, and Developmental Biology from the University of California, Santa Barbara in December 2023, where I studied
   double strand break repair in relation to the cell cycle in mammalian cell culture in Dr. Chris Richardson's lab. During this research, I also collaborated with other lab
